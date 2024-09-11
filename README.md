@@ -23,7 +23,7 @@ The goal of this project is to build an automated pipeline for extracting and an
 - Programming Language: Python 3.7+
 
 ### Libraries:
-- Data Extraction: BeautifulSoup
+- Data Extraction: yfinance, requests, BeautifulSoup
 - Data Analysis: Pandas, NumPy
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Development Tools: Jupyter Notebook, Visual Studio Code
