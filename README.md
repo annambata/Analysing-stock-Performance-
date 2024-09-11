@@ -13,3 +13,18 @@ The goal of this project is to build an automated pipeline for extracting and an
 - Clean and process the data to ensure accuracy and consistency.
 - Visualize the data in a dashboard, highlighting trends, patterns, and potential investment opportunities.
 - Identify insights that can aid the firm’s investment strategy for its clients.
+
+## Resources
+### Data Sources:
+- Historical stock prices (extracted via Python libraries and APIs)
+- Quarterly revenue reports (web scraping from company websites and financial portals)
+
+## Software & Tools
+- Programming Language: Python 3.7+
+
+### Libraries:
+- Data Extraction: BeautifulSoup
+- Data Analysis: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- Development Tools: Jupyter Notebook, Visual Studio Code
+- Web Scraping Tools: BeautifulSoup, Selenium
